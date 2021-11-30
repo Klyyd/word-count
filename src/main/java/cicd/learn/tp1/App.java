@@ -16,7 +16,9 @@ public class App
             new InputStreamReader(System.in));
 
         String param = reader.readLine();
+
+        WordCounter count = new WordCounter();
         System.out.println( "CICD rocks!" + param );
-        System.out.println( "test");
+        System.out.println("Le nombre de lettre dans 'CICD rocks! est de :'" + count.counter("CICD rocks!"));
     }
 }
