@@ -2,6 +2,8 @@ package cicd.learn.tp1;
 
 public class WordCounter {
 
+    public WordCounter() { }
+    
     public int counter(String sentence) {
         int count = 0;
 
