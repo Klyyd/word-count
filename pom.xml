@@ -6,10 +6,18 @@
   <version>1.0-SNAPSHOT</version>
   <name>word-count</name>
   <url>http://maven.apache.org</url>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 300e013f6a6a58d3a372618839e4ee0a79e679f2
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
    </properties>
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 300e013f6a6a58d3a372618839e4ee0a79e679f2
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -18,6 +26,10 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+<<<<<<< HEAD
+=======
+>>>>>>> 52771283d09692e209983cf231ed39b7515c0f0f
+>>>>>>> 300e013f6a6a58d3a372618839e4ee0a79e679f2
   <build>
     <plugins>
       <plugin>
